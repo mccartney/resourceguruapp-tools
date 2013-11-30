@@ -1,4 +1,4 @@
 resourceguruapp-tools
 =====================
 
-Tools to work with [resourceguruapp.com](http://http://resourceguruapp.com/) API
+Tools to work with [resourceguruapp.com](http://resourceguruapp.com/) API
